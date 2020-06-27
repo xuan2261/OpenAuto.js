@@ -23,15 +23,18 @@
             android:visibility="gone"/>
 
         <org.autojs.autojs.ui.widget.AvatarView
+            android:visibility="invisible"
             android:id="@+id/avatar"
             android:layout_width="64dp"
             android:layout_height="64dp"
             android:layout_above="@+id/username"
             android:layout_marginBottom="8dp"
             android:layout_marginLeft="12dp"
-            android:scaleType="fitXY"/>
+            android:scaleType="fitXY"
+            />
 
         <TextView
+            android:visibility="invisible"
             android:id="@+id/username"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
