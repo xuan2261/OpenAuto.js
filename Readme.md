@@ -1,7 +1,7 @@
 # Auto.js
 ## Introduction
 
-**yingshaoxo: I do this translation is not for letting this software getting better, I was hoping that someone who knows Python very well could make an automated tool in android with Python.**
+**yingshaoxo: I do this translation is not for letting this software getting better, I was hoping that someone who knows `Python` and `Java or Kotlin` both very well could make an automated tool in android with Python.**
 
 This is a Javascript tool for android automation, It can be running at android without other dependencies. The goal for this app is to match JsBox and Workflow at Apple Store.
 
