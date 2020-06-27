@@ -5,7 +5,10 @@
 
 This is a Javascript tool for android automation, It can be running at android without other dependencies. The goal for this app is to match JsBox and Workflow at Apple Store.
 
-For using it, you have to compile it by yourself.
+For using it, you can:
+
+1. Build it by yourself.
+2. Download the pre-build apk file: https://github.com/yingshaoxo/OpenAuto.js/releases/download/0.1/OpenAuto.js-armeabi-v7a-release.apk
 
 ### Features
 1. We use `Accessibility Services` as our base for automation. So you don't need to ROOT your phone.
