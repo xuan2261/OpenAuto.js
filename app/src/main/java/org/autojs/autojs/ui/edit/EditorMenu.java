@@ -134,9 +134,9 @@ public class EditorMenu {
             case R.id.action_info:
                 showInfo();
                 return true;
-            case R.id.action_build_apk:
-                startBuildApkActivity();
-                return true;
+            //case R.id.action_build_apk:
+            //    startBuildApkActivity();
+            //    return true;
 
         }
         return false;

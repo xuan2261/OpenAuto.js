@@ -351,12 +351,12 @@ public class ExplorerView extends ThemeColorSwipeRefreshLayout implements SwipeR
                         .timedTask(mSelectedItem.toScriptFile());
                 notifyOperated();
                 break;
-            case R.id.action_build_apk:
-                BuildActivity_.intent(getContext())
-                        .extra(BuildActivity.EXTRA_SOURCE, mSelectedItem.getPath())
-                        .start();
-                notifyOperated();
-                break;
+            //case R.id.action_build_apk:
+            //    BuildActivity_.intent(getContext())
+            //            .extra(BuildActivity.EXTRA_SOURCE, mSelectedItem.getPath())
+            //            .start();
+            //    notifyOperated();
+            //    break;
             case R.id.action_sort_by_date:
                 sort(ExplorerItemList.SORT_TYPE_DATE, mDirSortMenuShowing);
                 break;
