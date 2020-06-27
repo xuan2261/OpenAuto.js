@@ -1,4 +1,4 @@
-# Auto.js
+# OpenAuto.js
 ## Introduction
 
 **yingshaoxo: I do this translation is not for letting this software getting better, I was hoping that someone who knows `Python` and `Java or Kotlin` both very well could make an automated tool in android with Python.**
