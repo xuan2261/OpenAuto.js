@@ -57,7 +57,7 @@ public class CrashHandler extends CrashReport.CrashHandleCallback implements Unc
         if (BuildConfig.DEBUG) {
             mSystemHandler.uncaughtException(thread, ex);
         } else {
-            //mBuglyHandler.uncaughtException(thread, ex);
+            mBuglyHandler.uncaughtException(thread, ex);
         }
     }
 
