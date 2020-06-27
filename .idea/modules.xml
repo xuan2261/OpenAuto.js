@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Auto.js.iml" filepath="$PROJECT_DIR$/Auto.js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Auto.js-app.iml" filepath="$PROJECT_DIR$/app/Auto.js-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autojs/Auto.js-autojs.iml" filepath="$PROJECT_DIR$/autojs/Auto.js-autojs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automator/Auto.js-automator.iml" filepath="$PROJECT_DIR$/automator/Auto.js-automator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/Auto.js-common.iml" filepath="$PROJECT_DIR$/common/Auto.js-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inrt/Auto.js-inrt.iml" filepath="$PROJECT_DIR$/inrt/Auto.js-inrt.iml" />
       <module fileurl="file://$PROJECT_DIR$/NoRootScriptDroid.iml" filepath="$PROJECT_DIR$/NoRootScriptDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Engineering-Auto.js.iml" filepath="$PROJECT_DIR$/Software_Engineering-Auto.js.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/autojs/autojs.iml" filepath="$PROJECT_DIR$/autojs/autojs.iml" />
       <module fileurl="file://$PROJECT_DIR$/automator/automator.iml" filepath="$PROJECT_DIR$/automator/automator.iml" />
