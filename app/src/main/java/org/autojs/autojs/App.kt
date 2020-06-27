@@ -53,9 +53,9 @@ class App : MultiDexApplication() {
     private fun setUpStaticsTool() {
         if (BuildConfig.DEBUG)
             return
-        FlurryAgent.Builder()
-                .withLogEnabled(BuildConfig.DEBUG)
-                .build(this, "D42MH48ZN4PJC5TKNYZD")
+        //FlurryAgent.Builder()
+        //        .withLogEnabled(BuildConfig.DEBUG)
+        //        .build(this, "D42MH48ZN4PJC5TKNYZD")
     }
 
     private fun setUpDebugEnvironment() {

@@ -13,4 +13,5 @@
 *.apk
 *.exe
 .idea/caches/build_file_checksums.ser
-app/common/release
+app/common/
+app/coolapk/
