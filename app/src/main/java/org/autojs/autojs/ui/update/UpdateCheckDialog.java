@@ -39,12 +39,15 @@ public class UpdateCheckDialog {
                     @Override
                     public void onNext(@NonNull VersionInfo versionInfo) {
                         mProgress.dismiss();
+                        /*
                         if (versionInfo.isNewer()) {
                             new UpdateInfoDialogBuilder(mContext, versionInfo)
                                     .show();
                         } else {
                             Toast.makeText(GlobalAppContext.get(), R.string.text_is_latest_version, Toast.LENGTH_SHORT).show();
                         }
+                        */
+                        Toast.makeText(GlobalAppContext.get(), R.string.text_is_latest_version, Toast.LENGTH_SHORT).show();
                     }
 
                     @Override
