@@ -127,9 +127,9 @@
             </intent-filter>
         </activity>
 
-        <activity
+        <!--activity
             android:name=".ui.error.IssueReporterActivity"
-            android:theme="@style/IssueReporterTheme"/>
+            android:theme="@style/IssueReporterTheme"/-->
 
 
         <service android:name=".external.foreground.ForegroundService"/>

@@ -178,8 +178,9 @@ public class DrawerFragment extends androidx.fragment.app.Fragment {
                 new DrawerMenuGroup(R.string.text_others),
                 mConnectionItem,
                 new DrawerMenuItem(R.drawable.ic_personalize, R.string.text_theme_color, this::openThemeColorSettings),
-                new DrawerMenuItem(R.drawable.ic_night_mode, R.string.text_night_mode, R.string.key_night_mode, this::toggleNightMode),
-                mCheckForUpdatesItem
+                new DrawerMenuItem(R.drawable.ic_night_mode, R.string.text_night_mode, R.string.key_night_mode, this::toggleNightMode)
+                //,
+                //mCheckForUpdatesItem
         )));
         mDrawerMenu.setAdapter(mDrawerMenuAdapter);
         mDrawerMenu.setLayoutManager(new LinearLayoutManager(getContext()));

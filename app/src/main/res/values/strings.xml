@@ -5,7 +5,7 @@
     <string name="text_please_input_name">Please input the name of this file</string>
     <string name="text_name">Name</string>
     <string name="text_go_to_setting">Go to setting</string>
-    <string name="explain_accessibility_permission">You should give me accessibility permission，请在随后的设置中选择\"Auto.js\"并开启服务。\n您也可以稍后在侧拉菜单中设置。</string>
+    <string name="explain_accessibility_permission">You should give me the accessibility permission.</string>
     <string name="text_cancel">Cancel</string>
     <string name="text_path_is_empty">The path you gave is empty</string>
     <string name="text_file_not_exists">File does not empty</string>
@@ -70,7 +70,7 @@
     <string name="text_mobile_qq_not_installed">未安装手机QQ</string>
     <string name="text_edit">Edit</string>
     <string name="key_max_length_for_code_completion">key_max_length_for_code_completion</string>
-    <string name="text_max_length_for_code_completion">代码补全最大文件长度</string>
+    <string name="text_max_length_for_code_completion">Max length for code completion</string>
     <string name="text_file_exists">File already existed</string>
     <string name="text_accessibility_service">Accessibility Service</string>
     <string name="text_enable_accessibility_service_by_root">Use ROOT</string>
@@ -121,13 +121,13 @@
     <string name="text_directly_download">直接下载</string>
     <string name="text_download_failed">下载失败</string>
     <string name="text_do_not_ask_again_for_this_version">此版本不再提示</string>
-    <string name="text_code_beautify">格式化代码</string>
+    <string name="text_code_beautify">Code format</string>
     <string name="text_processing">处理中</string>
-    <string name="text_guard_mode">保护模式</string>
-    <string name="summary_guard_mode">在本软件界面无法运行自动操作命令以免误触</string>
+    <string name="text_guard_mode">Safe mode</string>
+    <string name="summary_guard_mode">No action could be done within this software</string>
     <string name="key_guard_mode" translatable="false">key_guard_mode</string>
     <string name="text_layout_inspector_is_dumping">布局分析中</string>
-    <string name="text_force_stop">强制停止</string>
+    <string name="text_force_stop">Force stop</string>
     <string name="text_execution_finished" formatted="false">\n------------\n[%s]运行结束，用时%f秒</string>
     <string name="text_again">又</string>
     <string name="text_again_and_again">又双</string>

@@ -4,8 +4,8 @@ ui.layout(
     <vertical>
         <linear>
             <input id="input" layout_weight="1" textColor="black" textSize="16sp" marginLeft="16"/>
-            <button id="search" text="搜索" style="Widget.AppCompat.Button.Borderless.Colored"/>
-            <button id="reset" text="重置" style="Widget.AppCompat.Button.Borderless.Colored"/>
+            <button id="search" text="Search" style="Widget.AppCompat.Button.Borderless.Colored"/>
+            <button id="reset" text="Reset" style="Widget.AppCompat.Button.Borderless.Colored"/>
         </linear>
         <grid id="icons" spanCount="4" h="*">
             <img src="@drawable/{{this}}" h="80" margin="12" bg="?selectableItemBackgroundBorderless"/>

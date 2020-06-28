@@ -116,7 +116,7 @@
         android:layout="@layout/preference_category_custom"
         android:title="@string/text_about">
 
-        <Preference
+        <!--Preference
             android:layout="@layout/preference_custom"
             android:title="@string/text_check_for_updates"
             />
@@ -129,7 +129,7 @@
         <Preference
             android:layout="@layout/preference_custom"
             android:title="@string/text_about_me_and_repo"
-            />
+            /-->
 
         <Preference
             android:layout="@layout/preference_custom"
