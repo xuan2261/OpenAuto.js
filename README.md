@@ -22,7 +22,13 @@ For using it, you can:
 
 
 ### Documentation
-We have documentation, but so sadly, the original author refused to provide any English sentence. So it's Chinese only.
+I'm currently doing the translation, you can check the progress in here:
+
+https://yingshaoxo.xyz/OpenAutoJs-Docs
+
+___
+
+As for the original documentation, so sadly, the original author refused to provide any English sentence. So it's Chinese only.
 
 But you can still use `Google page translator` to read it. Thanks to Google.
 
