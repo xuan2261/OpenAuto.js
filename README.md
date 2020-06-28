@@ -24,7 +24,7 @@ For using it, you can:
 ### Documentation
 I'm currently doing the translation, you can check the progress in here:
 
-https://yingshaoxo.xyz/OpenAutoJs-Docs
+https://yingshaoxo.github.io/OpenAutoJs-Docs
 
 ___
 
