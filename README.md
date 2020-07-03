@@ -22,18 +22,17 @@ For using it, you can:
 
 
 ### Documentation
-I'm currently doing the translation, you can check the progress in here:
-
-https://yingshaoxo.github.io/OpenAutoJs-Docs
-
-___
-
 As for the original documentation, so sadly, the original author refused to provide any English sentence. So it's Chinese only.
 
 But you can still use `Google page translator` to read it. Thanks to Google.
 
 https://hyb1996.github.io/AutoJs-Docs/#/app
 
+___
+
+As for the partly translated version, you can see it here, it's English based:
+
+https://yingshaoxo.github.io/OpenAutoJs-Docs
 
 ### Screenshot
 

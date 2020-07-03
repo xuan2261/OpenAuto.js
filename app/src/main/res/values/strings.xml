@@ -326,7 +326,7 @@
     <string name="text_inspect_layout_bounds">Check elements</string>
     <string name="text_inspect_layout_hierarchy">Check layout</string>
     <string name="text_inspect_layout">UI inspector</string>
-    <string name="text_pointer_location">指针位置[Root]</string>
+    <string name="text_pointer_location">Cursor Position[Root]</string>
     <string name="text_change_script_dir">Change the parent folder of scripts</string>
     <string name="key_script_dir_path">key_script_dir_path</string>
     <string name="default_value_script_dir_path">/脚本/</string>
